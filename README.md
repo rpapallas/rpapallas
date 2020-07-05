@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rafael
+### Hi there 👋  I am Rafael
 
 I am currently a PhD student at the School of Computing at the University of Leeds. My research focuses on robotics manipulation. In particular, I am interested in developing algorithms for non-prehensile, physics-based manipulation in clutter.
 
